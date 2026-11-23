@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="How I work: 1. Find the question. 2. Get the data right. 3. Build the view. 4. Drive the decision.">
+  <style>
+    .st { fill: #E6EDF3; animation: tw 4s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity: .15 } 50% { opacity: .9 } }
+    @keyframes up { from { opacity: 0; transform: translateY(18px) } to { opacity: 1; transform: none } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .st { opacity: .5 } }
+    .num { fill: #768390; font: 600 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 3px; }
+    .t { fill: #F0F3F6; font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .d { fill: #8B949E; font: 400 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .lit { opacity: 0; animation: lit 6s ease-out infinite; }
+    @keyframes lit { 0% { opacity: 1 } 30% { opacity: 0 } 100% { opacity: 0 } }
+  </style>
+  <defs>
+    <radialGradient id="sky" cx="78%" cy="45%" r="85%">
+      <stop offset="0" stop-color="#0F2A2E"/><stop offset=".55" stop-color="#0A141C"/><stop offset="1" stop-color="#05080D"/>
+    </radialGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0F766E"/><stop offset="1" stop-color="#99F6E4"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#2DD4BF" stop-opacity=".45"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity=".25"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#sky)"/>
+  <g>
+    <circle class="st" cx="926" cy="238" r="1.2" style="animation-duration:4.3s;animation-delay:-2.9s"/>
+    <circle class="st" cx="378" cy="262" r="1.2" style="animation-duration:4.7s;animation-delay:-4.0s"/>
+    <circle class="st" cx="192" cy="228" r="1" style="animation-duration:3.0s;animation-delay:-2.7s"/>
+    <circle class="st" cx="85" cy="202" r="1.2" style="animation-duration:4.8s;animation-delay:-3.1s"/>
+    <circle class="st" cx="322" cy="7" r="1.6" style="animation-duration:2.7s;animation-delay:-0.2s"/>
+    <circle class="st" cx="495" cy="15" r="1.2" style="animation-duration:3.6s;animation-delay:-3.0s"/>
+    <circle class="st" cx="400" cy="265" r="0.8" style="animation-duration:4.7s;animation-delay:-2.5s"/>
+    <circle class="st" cx="174" cy="234" r="1" style="animation-duration:3.9s;animation-delay:-2.8s"/>
+    <circle class="st" cx="170" cy="130" r="1" style="animation-duration:5.2s;animation-delay:-2.6s"/>
+    <circle class="st" cx="60" cy="35" r="1.6" style="animation-duration:5.2s;animation-delay:-2.0s"/>
+    <circle class="st" cx="595" cy="197" r="0.6" style="animation-duration:5.9s;animation-delay:-4.2s"/>
+    <circle class="st" cx="1" cy="109" r="0.8" style="animation-duration:5.7s;animation-delay:-0.3s"/>
+    <circle class="st" cx="768" cy="203" r="1.2" style="animation-duration:2.8s;animation-delay:-3.1s"/>
+    <circle class="st" cx="552" cy="172" r="0.6" style="animation-duration:3.6s;animation-delay:-0.1s"/>
+    <circle class="st" cx="839" cy="60" r="0.8" style="animation-duration:3.4s;animation-delay:-0.5s"/>
+    <circle class="st" cx="122" cy="238" r="1.2" style="animation-duration:3.1s;animation-delay:-2.8s"/>
+    <circle class="st" cx="916" cy="260" r="0.8" style="animation-duration:5.9s;animation-delay:-3.8s"/>
+    <circle class="st" cx="858" cy="196" r="0.6" style="animation-duration:3.9s;animation-delay:-5.0s"/>
+    <circle class="st" cx="0" cy="138" r="1.6" style="animation-duration:3.6s;animation-delay:-4.4s"/>
+    <circle class="st" cx="431" cy="95" r="1.2" style="animation-duration:6.0s;animation-delay:-3.0s"/>
+    <circle class="st" cx="1181" cy="51" r="0.6" style="animation-duration:6.0s;animation-delay:-1.1s"/>
+    <circle class="st" cx="528" cy="4" r="1.6" style="animation-duration:3.7s;animation-delay:-1.5s"/>
+    <circle class="st" cx="150" cy="38" r="0.6" style="animation-duration:3.2s;animation-delay:-3.2s"/>
+    <circle class="st" cx="31" cy="188" r="1" style="animation-duration:4.7s;animation-delay:-0.6s"/>
+    <circle class="st" cx="990" cy="69" r="1.2" style="animation-duration:3.1s;animation-delay:-0.8s"/>
+    <circle class="st" cx="467" cy="127" r="0.8" style="animation-duration:3.1s;animation-delay:-3.1s"/>
+    <circle class="st" cx="1134" cy="100" r="1.2" style="animation-duration:5.6s;animation-delay:-3.0s"/>
+    <circle class="st" cx="863" cy="24" r="0.6" style="animation-duration:2.9s;animation-delay:-2.6s"/>
+    <circle class="st" cx="522" cy="122" r="1.2" style="animation-duration:3.4s;animation-delay:-4.1s"/>
+    <circle class="st" cx="1005" cy="150" r="1.6" style="animation-duration:3.1s;animation-delay:-3.6s"/>
+    <circle class="st" cx="140" cy="64" r="0.8" style="animation-duration:4.2s;animation-delay:-3.3s"/>
+    <circle class="st" cx="151" cy="143" r="0.8" style="animation-duration:5.7s;animation-delay:-1.0s"/>
+    <circle class="st" cx="33" cy="35" r="1" style="animation-duration:3.9s;animation-delay:-1.2s"/>
+    <circle class="st" cx="95" cy="90" r="1" style="animation-duration:3.8s;animation-delay:-2.9s"/>
+    <circle class="st" cx="269" cy="47" r="1" style="animation-duration:3.0s;animation-delay:-2.3s"/>
+    <circle class="st" cx="677" cy="267" r="1.6" style="animation-duration:5.8s;animation-delay:-2.9s"/>
+    <circle class="st" cx="36" cy="243" r="1" style="animation-duration:5.0s;animation-delay:-4.8s"/>
+    <circle class="st" cx="43" cy="38" r="1.2" style="animation-duration:2.7s;animation-delay:-1.6s"/>
+    <circle class="st" cx="279" cy="37" r="0.6" style="animation-duration:4.1s;animation-delay:-1.8s"/>
+    <circle class="st" cx="91" cy="66" r="1" style="animation-duration:3.7s;animation-delay:-3.4s"/>
+    <circle class="st" cx="159" cy="213" r="0.6" style="animation-duration:5.5s;animation-delay:-2.9s"/>
+    <circle class="st" cx="783" cy="194" r="1.6" style="animation-duration:2.5s;animation-delay:-0.4s"/>
+    <circle class="st" cx="185" cy="59" r="1" style="animation-duration:5.6s;animation-delay:-3.6s"/>
+    <circle class="st" cx="795" cy="234" r="1.2" style="animation-duration:4.1s;animation-delay:-2.7s"/>
+    <circle class="st" cx="1062" cy="263" r="0.6" style="animation-duration:3.6s;animation-delay:-0.4s"/>
+  </g>
+  <path d="M150 110C300 60 300 60 450 110S600 160 750 110 900 60 1050 110" fill="none" stroke="#30363D" stroke-width="1.5" stroke-dasharray="3 7"/>
+  <g>
+      <circle cx="150" cy="110" r="22" fill="#0A141C" stroke="#30363D" stroke-width="1.5"/>
+      <circle class="lit" cx="150" cy="110" r="22" fill="none" stroke="#2DD4BF" stroke-width="2" style="animation-delay:0s"/>
+      <circle cx="150" cy="110" r="6" fill="#2DD4BF"/>
+      <text class="num" x="150" y="66" text-anchor="middle">01</text>
+      <text class="t" x="150" y="178" text-anchor="middle">Find the question</text>
+      <text class="d" x="150" y="208" text-anchor="middle">Start from the decision,</text>
+      <text class="d" x="150" y="232" text-anchor="middle">not the dataset.</text>
+    </g><g>
+      <circle cx="450" cy="110" r="22" fill="#0A141C" stroke="#30363D" stroke-width="1.5"/>
+      <circle class="lit" cx="450" cy="110" r="22" fill="none" stroke="#2DD4BF" stroke-width="2" style="animation-delay:2s"/>
+      <circle cx="450" cy="110" r="6" fill="#2DD4BF"/>
+      <text class="num" x="450" y="66" text-anchor="middle">02</text>
+      <text class="t" x="450" y="178" text-anchor="middle">Get the data right</text>
+      <text class="d" x="450" y="208" text-anchor="middle">Clean, joined and trusted</text>
+      <text class="d" x="450" y="232" text-anchor="middle">before anyone sees a chart.</text>
+    </g><g>
+      <circle cx="750" cy="110" r="22" fill="#0A141C" stroke="#30363D" stroke-width="1.5"/>
+      <circle class="lit" cx="750" cy="110" r="22" fill="none" stroke="#2DD4BF" stroke-width="2" style="animation-delay:4s"/>
+      <circle cx="750" cy="110" r="6" fill="#2DD4BF"/>
+      <text class="num" x="750" y="66" text-anchor="middle">03</text>
+      <text class="t" x="750" y="178" text-anchor="middle">Build the view</text>
+      <text class="d" x="750" y="208" text-anchor="middle">Dashboards and models</text>
+      <text class="d" x="750" y="232" text-anchor="middle">people use every week.</text>
+    </g><g>
+      <circle cx="1050" cy="110" r="22" fill="#0A141C" stroke="#30363D" stroke-width="1.5"/>
+      <circle class="lit" cx="1050" cy="110" r="22" fill="none" stroke="#2DD4BF" stroke-width="2" style="animation-delay:5.9s"/>
+      <circle cx="1050" cy="110" r="6" fill="#2DD4BF"/>
+      <text class="num" x="1050" y="66" text-anchor="middle">04</text>
+      <text class="t" x="1050" y="178" text-anchor="middle">Drive the decision</text>
+      <text class="d" x="1050" y="208" text-anchor="middle">Business case, owner,</text>
+      <text class="d" x="1050" y="232" text-anchor="middle">and a number to track.</text>
+    </g>
+  <circle r="5" fill="#99F6E4"><animateMotion dur="6s" repeatCount="indefinite" path="M150 110C300 60 300 60 450 110S600 160 750 110 900 60 1050 110"/></circle>
+  <circle r="14" fill="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M150 110C300 60 300 60 450 110S600 160 750 110 900 60 1050 110"/></circle>
+</svg>

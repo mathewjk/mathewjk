@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="40" viewBox="0 0 176 40" role="img" aria-label="Website">
+  <rect width="176" height="40" rx="8" fill="#1F2328"/>
+  <g transform="translate(22 11) scale(.75)" fill="#FFFFFF"><path d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm7.93 7h-3.47a18.6 18.6 0 0 0-1.6-4.57A10.03 10.03 0 0 1 19.93 7zM12 2.04c.83 1.2 1.48 2.53 1.91 4.96h-3.82C10.52 4.57 11.17 3.24 12 2.04zM2.26 14a9.9 9.9 0 0 1 0-4h3.9a20.6 20.6 0 0 0 0 4h-3.9zm.81 2h3.47c.36 1.62.9 3.16 1.6 4.57A10.03 10.03 0 0 1 3.07 16zm3.47-9H3.07a10.03 10.03 0 0 1 5.07-4.57A18.6 18.6 0 0 0 6.54 7zM12 21.96c-.83-1.2-1.48-2.53-1.91-4.96h3.82c-.43 2.43-1.08 3.76-1.91 4.96zM14.34 14H9.66a18.4 18.4 0 0 1 0-4h4.68a18.4 18.4 0 0 1 0 4zm.52 6.57c.7-1.41 1.24-2.95 1.6-4.57h3.47a10.03 10.03 0 0 1-5.07 4.57zM17.84 14a20.6 20.6 0 0 0 0-4h3.9a9.9 9.9 0 0 1 0 4h-3.9z"/></g>
+  <text x="104" y="25.5" text-anchor="middle" fill="#FFFFFF" style="font: 700 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2px;">WEBSITE</text>
+</svg>

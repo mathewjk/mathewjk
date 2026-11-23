@@ -1,46 +1,47 @@
-<a href="https://github.com/mathewjk/mathewjk/blob/master/header.svg"><img src="https://github.com/mathewjk/mathewjk/raw/master/header.svg" alt="Mathew Joseph — Turning operational data into decisions." width="100%"></a>
+<img src="./header.svg" alt="Mathew Joseph — Turning operational data into decisions." width="100%" />
 
-I take messy operational data and turn it into decisions people act on, from the first SQL query to the dashboard and the business case. I'm a Data Specialist in the Transformation Office at **Emirates Transport**, working on fleet, fuel and maintenance analytics. Before that I was a Business Analyst at **LSEG** and COO of **Making Today**. On the side I'm building **[Beans](https://trackyourbeans.com)**, a personal finance web app.
+<br />
 
-### Currently
+<img src="./title-how-i-work.svg" alt="How I work" width="100%" />
 
-**Building:** [Beans](https://trackyourbeans.com), a simple way to track where your money goes  
-**Learning:** Building AI agents that do real work, starting with an automated daily news briefing  
-**Looking for:** People working on AI deployment and data products in the Gulf  
-**Ask me about:** Fleet data, golf, and training for a half marathon
+<img src="./how-i-work.svg" alt="How I work: find the question, get the data right, build the view, drive the decision." width="100%" />
 
-### Toolkit
+<br />
 
-**DATA & ANALYTICS:**
-![SQL](https://img.shields.io/badge/SQL-1F2328?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-1F2328?style=flat-square&logo=pandas&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-1F2328?style=flat-square&logo=snowflake&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1F2328?style=flat-square&logo=googlesheets&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-1F2328?style=flat-square&logoColor=white)
+<img src="./title-currently.svg" alt="Currently" width="100%" />
 
-**BUSINESS & PRODUCT:**
-![Salesforce](https://img.shields.io/badge/Salesforce-1F2328?style=flat-square&logo=salesforce&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-1F2328?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-1F2328?style=flat-square&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1F2328?style=flat-square&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1F2328?style=flat-square&logo=figma&logoColor=white)
+**Day job** &nbsp;·&nbsp; Data Specialist, Transformation Office at **Emirates Transport**: fleet, fuel and maintenance analytics  
+**Building** &nbsp;·&nbsp; [Beans](https://trackyourbeans.com), a simple way to track where your money goes  
+**Learning** &nbsp;·&nbsp; Building AI agents that do real work, starting with an automated daily news briefing  
+**Before** &nbsp;·&nbsp; Business Analyst at LSEG · COO at Making Today · QA Automation at Envestnet  
+**Ask me about** &nbsp;·&nbsp; Fleet data, golf, and training for a half marathon
 
-**AI:**
-![Claude](https://img.shields.io/badge/Claude-1F2328?style=flat-square&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-1F2328?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-1F2328?style=flat-square&logo=openai&logoColor=white)
+<br />
 
-**BUILDING:**
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2328?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1F2328?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1F2328?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-1F2328?style=flat-square&logo=vercel&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-1F2328?style=flat-square&logo=selenium&logoColor=white)
+<img src="./title-toolkit.svg" alt="Toolkit" width="100%" />
 
-### Say hi
+<sub><b><ins>DATA & ANALYTICS</ins></b></sub><br />
+<img src="https://img.shields.io/badge/SQL-1F2328?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-1F2328?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/Snowflake-1F2328?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" /> <img src="https://img.shields.io/badge/Power%20BI-1F2328?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBvd2VyIEJJPC90aXRsZT48cGF0aCBkPSJNMTAgMTJhMSAxIDAgMCAxIDEgMXYxMUg0YTEgMSAwIDAgMS0xLTFWMTNhMSAxIDAgMCAxIDEtMWg2Wm0tMi0uNVY3YTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjE3aC00LjVWMTNhMS41IDEuNSAwIDAgMC0xLjUtMS41SDhabTUtNlYxYTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjIyYTEgMSAwIDAgMS0xIDFoLTMuNVY3QTEuNSAxLjUgMCAwIDAgMTUgNS41aC0yWiIvPjwvc3ZnPg%3D%3D" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-1F2328?style=flat-square&logo=googlesheets&logoColor=white" alt="Excel" /> <br />
+<sub><b>Methods</b> &nbsp;·&nbsp; KPI design · Dashboards · Business cases · Root-cause analysis · Data quality checks</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2328?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewjk/)
-[![Website](https://img.shields.io/badge/mathewjk.com-1F2328?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mathewjk.com)
-[![Email](https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathew@mathewjk.com)
+<br />
+
+<sub><b><ins>BUSINESS & PRODUCT</ins></b></sub><br />
+<img src="https://img.shields.io/badge/Salesforce-1F2328?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" /> <img src="https://img.shields.io/badge/Jira-1F2328?style=flat-square&logo=jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/Confluence-1F2328?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" /> <img src="https://img.shields.io/badge/Notion-1F2328?style=flat-square&logo=notion&logoColor=white" alt="Notion" /> <img src="https://img.shields.io/badge/Figma-1F2328?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <br />
+<sub><b>Practice</b> &nbsp;·&nbsp; BRDs and requirements · Stakeholder management · Process mapping · Scope of work · Board-ready reporting</sub>
+
+<br />
+
+<sub><b><ins>AI</ins></b></sub><br />
+<img src="https://img.shields.io/badge/Claude-1F2328?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Claude%20Code-1F2328?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenAI-1F2328?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/MCP-1F2328?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /> 
+
+<br />
+
+<sub><b><ins>BUILDING</ins></b></sub><br />
+<img src="https://img.shields.io/badge/TypeScript-1F2328?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1F2328?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Supabase-1F2328?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Vercel-1F2328?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Selenium-1F2328?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" /> 
+
+<br />
+
+<img src="./title-contact.svg" alt="Say hi" width="100%" />
+
+<a href="https://www.linkedin.com/in/mathewjk/"><img src="./button-linkedin.svg" alt="LinkedIn" width="176" height="40" /></a>&nbsp;&nbsp;<a href="https://mathewjk.com"><img src="./button-website.svg" alt="Website" width="176" height="40" /></a>&nbsp;&nbsp;<a href="mailto:mathew@mathewjk.com"><img src="./button-email.svg" alt="Email me" width="176" height="40" /></a>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Toolkit">
+  <style>
+    .num { fill: #768390; font: 600 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 3px; }
+    .t { fill: #2DD4BF; font: 700 34px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -.8px; }
+    .ln { stroke: #768390; stroke-opacity: .6; stroke-dasharray: 3 8; }
+    .sp { fill: #768390; animation: tw 4s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity: .15 } 50% { opacity: .8 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g transform="translate(34 42)">
+    <rect x="-16" y="2" width="7" height="12" rx="1.5" fill="#2DD4BF" fill-opacity=".5"><animate attributeName="height" values="12;6;12" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="2;8;2" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="-4" y="-6" width="7" height="20" rx="1.5" fill="#2DD4BF" fill-opacity=".75"><animate attributeName="height" values="20;12;20" dur="2.4s" begin="-.8s" repeatCount="indefinite"/><animate attributeName="y" values="-6;2;-6" dur="2.4s" begin="-.8s" repeatCount="indefinite"/></rect>
+    <rect x="8" y="-14" width="7" height="28" rx="1.5" fill="#2DD4BF"><animate attributeName="height" values="28;18;28" dur="2.4s" begin="-1.6s" repeatCount="indefinite"/><animate attributeName="y" values="-14;-4;-14" dur="2.4s" begin="-1.6s" repeatCount="indefinite"/></rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;1" dur=".9s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="-12 0;0 0" dur=".9s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1"/>
+    <text class="num" x="76" y="50">03</text>
+    <text class="t" x="112" y="54">Toolkit</text>
+  </g>
+  <line class="ln" x1="274" y1="42" x2="1190" y2="42" stroke-width="1.5"><animate attributeName="x2" from="274" to="1190" dur="1.6s" begin=".3s" fill="freeze"/></line>
+  <g><circle class="sp" cx="850" cy="39" r="1" style="animation-duration:5.8s;animation-delay:-0.6s"/>
+    <circle class="sp" cx="102" cy="55" r="1" style="animation-duration:3.5s;animation-delay:-3.1s"/>
+    <circle class="sp" cx="712" cy="26" r="1.8" style="animation-duration:2.8s;animation-delay:-1.4s"/>
+    <circle class="sp" cx="619" cy="38" r="1.4" style="animation-duration:2.7s;animation-delay:-2.7s"/>
+    <circle class="sp" cx="516" cy="3" r="1.4" style="animation-duration:2.5s;animation-delay:-1.6s"/>
+    <circle class="sp" cx="1113" cy="63" r="1.4" style="animation-duration:2.6s;animation-delay:-4.9s"/>
+    <circle class="sp" cx="164" cy="28" r="1.8" style="animation-duration:3.0s;animation-delay:-0.4s"/>
+    <circle class="sp" cx="592" cy="63" r="1.8" style="animation-duration:3.8s;animation-delay:-2.0s"/>
+    <circle class="sp" cx="874" cy="6" r="1.4" style="animation-duration:4.9s;animation-delay:-0.8s"/>
+    <circle class="sp" cx="25" cy="25" r="1.8" style="animation-duration:4.7s;animation-delay:-0.8s"/></g>
+</svg>
