@@ -13,7 +13,6 @@
 **Day job** &nbsp;·&nbsp; Data Specialist, Transformation Office at **Emirates Transport**: fleet, fuel and maintenance analytics  
 **Building** &nbsp;·&nbsp; [Beans](https://trackyourbeans.com), a simple way to track where your money goes  
 **Learning** &nbsp;·&nbsp; Building AI agents that do real work, starting with an automated daily news briefing  
-**Before** &nbsp;·&nbsp; Business Analyst at LSEG · COO at Making Today · QA Automation at Envestnet  
 **Ask me about** &nbsp;·&nbsp; Fleet data, golf, and training for a half marathon
 
 <br />
